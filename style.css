@@ -1,0 +1,44 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 7px 10px 6px #8f5858;
+}
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+canvas
+{
+    border: 5px solid white;
+    box-shadow: 10px 10px 15px #8f5858;
+    border-radius: 20px;
+}
+
+#copy_right_footer
+{
+    line-height: 3;
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    text-align: right;
+    margin-right: 5px;
+    padding-bottom: 10px;
+}
+a
+{
+    padding-bottom: 30px;
+    color: black !important;
+    text-decoration: none;
+    margin-right: 5px;
+}
+hr
+{
+    background-color: black;
+    height: 1px;
+}
